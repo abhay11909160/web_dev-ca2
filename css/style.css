@@ -1,0 +1,39 @@
+/* navbar */
+
+.navbar-nav.navbar-center {
+            position: relative;
+            left: 50%;
+            transform: translatex(-50%);
+        }
+
+.main-button{
+          position: absolute;
+          top:65%;
+          left:45.5%;
+          color:white;
+          border:none;
+          padding:10px 25px;
+          background-color:#FFA900;
+        }
+.main-button:hover{
+  background-color: rgba(255,169,0,0.8);
+  transition: 0.6s;
+}
+h4{
+  position: absolute;
+  top:55%;
+  left:35%;
+  color:white;
+}
+p{
+  position: absolute;
+  top:40%;
+  left:37%;
+  color:white;
+  font-size: 60px;
+}
+.imgs{
+  position: absolute;
+  bottom:40%;
+  left:36%;
+}
